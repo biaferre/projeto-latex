@@ -1,6 +1,6 @@
 # projeto-latex
 
-Code and files used in a LaTex project for the discipline of Introduction to Computer Science, offered by UFPE.
+Code and files used in a LaTex project for the Introduction to Computer Science class, offered by UFPE.
 The subject of this research was the discipline of Theoretical Informatics, offered by UFPE.
 Developed with the online LaTex editor Overleaf.
 //
